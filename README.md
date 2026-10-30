@@ -54,7 +54,8 @@ To use HashCracker:
 
 ## ScreenShot
 
-![Hash_Cracker_GUI](https://private-user-images.githubusercontent.com/189908437/390563766-bf2fcedd-be3b-41ac-af36-14c30abe8d72.png)
+<img width="1920" height="1080" alt="390563766-bf2fcedd-be3b-41ac-af36-14c30abe8d72" src="https://github.com/user-attachments/assets/8b8317dd-05b7-42d1-827c-db1e02d5747a" />
+
 
 ## Troubleshooting
 
