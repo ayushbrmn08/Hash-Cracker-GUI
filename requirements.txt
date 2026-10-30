@@ -1,11 +1,13 @@
-# CustomTkinter for modern GUI
-customtkinter>=5.0.0
+# Hash-Cracker-GUI dependencies
+# Exact versions confirmed working on Python 3.13 (Oct 2026)
 
-# Drag-and-Drop support for GUI
-tkinterdnd2>=0.3.0
+# Modern GUI framework (wraps Tkinter)
+customtkinter==6.0.0
+
+# Drag-and-drop support for GUI (requires Tcl/Tk; ships prebuilt binaries
+# per platform, so install failures here usually mean an unsupported
+# OS/Python combo rather than a missing build tool)
+tkinterdnd2==0.7.0
 
 # ASCII art generation for the application banner
-pyfiglet>=0.8.post1
-
-# Concurrent execution for multiprocessing
-futures; python_version<"3.9"  # Included only for older Python versions
+pyfiglet==1.0.4
